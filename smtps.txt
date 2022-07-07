@@ -1,0 +1,6 @@
+smtp.office365.com:pw3meat@shoppigglywiggly.com:michaelcook1:587
+smtp.office365.com:esp.inicial.i@ugel08canete.gob.pe:Lumases30:587
+smtp.office365.com:201914049@student.mist.ac.bd:hello2441139@#Emon49@:587
+smtp.office365.com:justin@seaisle.com:8007389464:587
+smtp.office365.com:aweiler97@uni-koblenz.de:Genovefa11!:587
+smtp.office365.com:mukhammadthoriqaziz.2019@smkn1purwosari.sch.id:S03karn0:587
